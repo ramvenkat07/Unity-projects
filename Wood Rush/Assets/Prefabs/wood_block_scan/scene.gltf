@@ -1,0 +1,348 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        3.7037620544433594,
+        11.033595085144043,
+        1.39369797706604
+      ],
+      "min": [
+        -0.9061750173568726,
+        4.459938049316406,
+        -1.2356070280075073
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9989749193191528,
+        0.9993169903755188,
+        0.9998717308044434
+      ],
+      "min": [
+        -0.9997854828834534,
+        -0.9997547268867493,
+        -0.9998268485069275
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.879423975944519,
+        0.9997770190238953
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 350469,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        3.7037620544433594,
+        11.033595085144043,
+        1.39369797706604
+      ],
+      "min": [
+        -0.6735659837722778,
+        4.460124969482422,
+        -1.4036810398101807
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999527931213379,
+        0.9924578070640564,
+        0.9999081492424011
+      ],
+      "min": [
+        -0.9996721148490906,
+        -0.9998835325241089,
+        -0.9998268485069275
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8787670135498047,
+        0.9999759793281555
+      ],
+      "min": [
+        0.0013129999861121178,
+        0.0016430000541731715
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1401876,
+      "componentType": 5125,
+      "count": 343929,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 20090,
+      "max": [
+        3.699892997741699,
+        11.010849952697754,
+        1.3900309801101685
+      ],
+      "min": [
+        -0.9102979898452759,
+        4.459938049316406,
+        -1.4025739431381226
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3386616,
+      "componentType": 5126,
+      "count": 20090,
+      "max": [
+        0.9958032965660095,
+        0.9859306216239929,
+        0.9996887445449829
+      ],
+      "min": [
+        -0.9983270764350891,
+        -0.9998835325241089,
+        -0.9995169043540955
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 20090,
+      "max": [
+        0.8757309913635254,
+        0.9974539875984192
+      ],
+      "min": [
+        0.0015010000206530094,
+        0.0018660000059753656
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2777592,
+      "componentType": 5125,
+      "count": 48138,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Milkislegit (https://sketchfab.com/8053498054380548)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wood-block-scan-170bf0903ccc47ecba3e6b504a950be0",
+      "title": "Wood Block Scan"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2970144,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1209232,
+      "byteOffset": 2970144,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3627696,
+      "byteOffset": 4179376,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7807072,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/WoodBlock_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "WoodBlock",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.8884488344192505,
+        -0.44832637906074524,
+        -0.09829609096050272,
+        0.0,
+        -0.43615955114364624,
+        -0.8913779854774475,
+        0.12332958728075008,
+        0.0,
+        -0.1429108828306198,
+        -0.06669924408197381,
+        -0.9874855279922485,
+        0.0,
+        3.533918857574463,
+        7.526161670684816,
+        -8.569806098937987,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "WoodBlock.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
