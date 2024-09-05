@@ -31,3 +31,7 @@ Contributions are welcome! Please follow the [contribution guidelines](link-to-c
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+
+## Screenshots
+![Screenshot]([link-to-screenshot](https://pixabay.com/photos/white-tailed-eagle-eagle-bird-8738135/))
